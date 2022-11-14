@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a rel="me" href="https://frostmn.social/@aaron">@aaron@frostmn.social</a>
 <!--
 **FrostMN/FrostMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
